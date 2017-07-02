@@ -18,6 +18,7 @@ The source code Out-FINcodedCommand is hosted at Github, and you may
 download, fork and review it from this repository
 (https://github.com/danielbohannon/Out-FINcodedCommand). Please report issues
 or feature requests through Github's bug tracker associated with this project.
+(Not really -- this is a simple POC, not a Cadillac with a warranty.)
 
 To install:
 
